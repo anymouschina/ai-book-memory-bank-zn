@@ -1,81 +1,67 @@
-# Active Context
+# 活动上下文
 
-This document tracks the current state of your book project. It should be updated frequently to reflect your current focus, recent changes, and active considerations. This is the file that most directly informs day-to-day work on the project.
+本文件记录您书籍项目的当前状态。应经常更新以反映您当前的关注点、最近的变更和活跃的考虑事项。这是最直接指导项目日常工作的文件。
 
-## Current Work Focus
+## 当前工作重点
 
-**Primary Focus**: 完成第四章「记忆迷宫·真相碎片」，准备进入第五章「系统裂缝·共同选择」
+**主要关注点**：[您当前正在处理的主要任务或章节]
 
-**Secondary Tasks**: 
-- 深化将士意识的独立性和对话能力
-- 建立新的道德冲突框架（释放vs维持）
-- 准备Project Omega的最终真相揭示
+**次要任务**：[在主要关注的同时你正在处理的其他任务]
 
-**Blocked Items**: [Tasks that are waiting on something else]
+**阻塞项**：[等待其他事项的任务]
 
-**Time Frame**: 第四章已完成，第五章即将开始
+**时间范围**：[当前活跃工作的目标完成日期]
 
-## Recent Changes
+## 最近变更
 
-**Latest Updates**: 第四章「记忆迷宫·真相碎片」完成，揭示了系统核心真相：将士的自愿牺牲、Project Omega的逆向工程本质、家族传承机制
+**最新更新**：[稿件最近的重要修改]
 
-**Decisions Made**: 
-- 将士意志从系统程序转变为独立意识伙伴
-- 铜钱从工具升级为对话媒介
-- 团队目标从"闯关"转变为"共同寻找解决方案"
-- 建立了新的道德框架：给予将士选择权而非强制释放
+**已做决定**：[影响项目的近期创意决策]
 
-**Feedback Incorporated**: [How you've addressed recent feedback]
+**已纳入反馈**：[如何处理近期反馈]
 
-**Revisions**: 世界观从单纯的无限流闯关转向伦理思辨和技术哲学探讨
+**修订内容**：[最近修订或正在修订的区域]
 
-## Next Steps
+## 下一步计划
 
-**Immediate Plans**: 第五章「系统裂缝·共同选择」- 探索将士意识觉醒后的新可能性，寻找不牺牲任何人的解决方案
+**近期计划**： [接下来要完成的工作]
 
-**Coming Challenges**: 
-- 平衡自由意志与系统稳定性
-- 处理时间线分裂带来的复杂性
-- 解决Project Omega的终极目的揭示
+**即将面临的挑战**： [预见的困难部分或问题]
 
-**Research Needed**: [Information you need to gather]
+**需要研究的内容**： [需要收集的信息]
 
-**Questions to Resolve**: 
-- 系统裂缝是否会继续扩大？
-- 将士意识的觉醒会带来什么后果？
-- Project Omega的真正目的是否真的是"理解"而非"控制"？
-- 如何在不破坏系统的情况下给予将士真正的自由？
+**待解决的问题**：[开放创意或技术问题]
 
-## Active Decisions & Considerations
+## 活跃决策与考量
 
-**Creative Tensions**: [Competing ideas you're weighing]
+**创意冲突**：[正在权衡的竞争性想法]
 
-**Technical Challenges**: [Writing or structure problems you're solving]
+**技术挑战**：[正在解决的写作或结构问题]
 
-**Character Decisions**: [Current character development questions]
+**角色决策**：[当前角色发展问题]
 
-**Plot Considerations**: [How current work affects overall plot]
+**剧情考量**：[当前作品如何影响整体剧情]
 
-## Important Patterns & Preferences
+## 重要模式与偏好
 
-**Working Style**: [How you're currently approaching the writing]
+**工作风格**：[你目前如何进行写作]
 
-**Voice Notes**: [Current focus on voice or style elements]
+**语音笔记**：[当前重点在语音或风格元素]
 
-**Pace Considerations**: [Thoughts on pacing for current section]
+**节奏考量**：[当前部分节奏的思考]
 
-**Thematic Elements**: [Themes being emphasized in current work]
+**主题元素**：[当前作品中强调的主题]
 
-## Learnings & Project Insights
+## 学习与项目洞察
 
-**What's Working**: [Elements you've found effective]
+**哪些有效**：[你发现有效的元素]
 
-**What's Not Working**: [Approaches you're moving away from]
+**哪些无效**：[你正在放弃的方法]
 
-**New Techniques**: [Writing approaches you're experimenting with]
+**新技巧**：[你正在尝试的写作方法]
 
-**Story Revelations**: [New understandings about the story that emerged while writing]
+**故事新发现**：[写作过程中涌现出的关于故事的新理解]
 
-## Notes
+[关于当前工作的任何其他背景信息，不适合放在其他地方]
 
-[Any additional context about current work that doesn't fit elsewhere]
+## 备注
